@@ -18,4 +18,6 @@ python3 ./App/password_generate.py
 
 # Some images of the project :camera: 
 
-![image](media/screenshot/1.png)
+![image](media/screenshot/img_1.png)
+
+![image](media/screenshot/img_2.png)

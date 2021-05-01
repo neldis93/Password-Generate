@@ -3,7 +3,9 @@
 [![Python Version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://python.org)
 
 # Description
-Console application with Python to validate login through username, email and password.
+Build a password generator and encryptor app \
+Tkinter GUI
+
 
 # ⚡ Used Technologies
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -13,3 +15,7 @@ Console application with Python to validate login through username, email and pa
 ```bash
 python3 ./App/password_generate.py
 ```
+
+# Some images of the project :camera: 
+
+![image](media/screenshot/1.png)
